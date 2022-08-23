@@ -1,4 +1,4 @@
 Today is Tuesday.
 I learned GIT.
 I like listening to music.
-I have the assignment today.
+I have completed the assignment today.
